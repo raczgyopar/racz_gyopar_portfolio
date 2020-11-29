@@ -1,0 +1,91 @@
+body{
+	color: gray;
+	background-color: rgb(245,238,225);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+@font-face {
+	font-family: crimsonalap;
+	src: url(crimson.ttf);
+}
+
+.menü{
+	width: 80%;
+	text-align: center;	
+}
+
+.gomb{
+	text-decoration: none;
+	font-family: crimsonalap;
+	color: gray;
+	font-size: 3vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+}
+
+.gomb:hover{
+	opacity: 0.5;
+}
+
+table {
+	width: 80%;
+}
+
+.cucc {
+    width: 30vw;
+    background-image: url('logo.png');
+    text-align: center;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    font-size: 3.5vw;
+    color: white;
+}
+
+
+.tabla {
+	width: 50%;
+	font-family: crimsonalap;
+	font-size: 1vw;
+	text-align: center;
+}
+
+.icon{
+	width: 3vw;
+}
+
+.borito{
+	height: 20vw;
+	width: 85vw;
+	position: relative;
+}
+.kep1 {
+	height: 30vw;
+	position: relative;
+}
+
+.allo{
+	height: 25vw;
+	width: 20vw;
+	position: relative;
+
+}
+
+.rajzok{
+	width: 30vw;
+	height: 25vw;
+	position: relative;
+
+}
+
+.kepek{
+	height: 18vw;
+	width: 27vw;
+	position: relative;
+}
+
+.nev {
+	font-size: 2vw;
+}
